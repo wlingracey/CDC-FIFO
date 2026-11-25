@@ -1,4 +1,3 @@
-// This is defined for you
 `ifndef HEXPATH
  `define HEXPATH ""
 `endif
